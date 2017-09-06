@@ -73,8 +73,8 @@ CREATE TABLE `employee` (
 --
 
 INSERT INTO `employee` (`employeeId`, `employeeFirstName`, `employeeLastName`, `employeeMail`, `employeePhone`, `employeeService`) VALUES
-(1, 'Guillaume', 'HANOCQ', 'guillaume.hanocq@cvs.fr', '0632006909', 'Bureau d\'étude'),
-(2, 'Victor', 'RUBIRA', 'victor.rubira@cvs.fr', '0681521931', 'Commercial');
+(1, 'Guillaume', 'HANOCQ', 'guillaume.hanocq@cvs.fr', '', 'Bureau d\'étude'),
+(2, 'Victor', 'RUBIRA', 'victor.rubira@cvs.fr', '', 'Commercial');
 
 -- --------------------------------------------------------
 
